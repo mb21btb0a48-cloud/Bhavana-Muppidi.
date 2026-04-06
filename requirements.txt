@@ -1,0 +1,12 @@
+streamlit
+pandas
+openai
+pydantic
+requests
+PyPDF2
+python-docx
+streamlit-lottie
+streamlit-geolocation
+plotly
+fpdf2
+twilio
